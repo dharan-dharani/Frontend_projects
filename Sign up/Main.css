@@ -1,0 +1,50 @@
+body{
+    background: url(pexels-phil-kallahar-983200.jpg);
+    margin: 30px;
+}
+.Sign
+{
+text-align: center;
+font-size: 20px;
+}
+.Main{
+    
+    color:white;
+    font-size: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 300px;
+    margin: auto;
+    background-color: rgba(230, 219, 219, 0.178);
+    padding:10px 20px 10px ;
+    border-radius: 30px;
+   
+}
+
+.Main input {
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 87%;
+    margin: 8px;
+    border-radius: 10px;
+    padding: 10px 10px 10px;
+    display: block;
+
+}
+textarea{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 87%;
+    margin: 8px;
+    border-radius: 10px;
+    padding: 10px 10px 10px;
+   
+}
+button
+{
+      padding: 10px;
+      background-color: black;
+      color: white;
+      border-radius: 12px;
+      margin: 12px;
+
+}
