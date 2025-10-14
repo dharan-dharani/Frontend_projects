@@ -1,0 +1,44 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-color: rgba(22, 22, 22, 0.541);
+    color: white;
+    padding: 16px 0;
+    text-align: center;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}ul li{
+    display: inline;
+    margin-right: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.products{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+} 
+#pro{
+    border: 2px solid;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+button{
+    border: none;
+    cursor: pointer;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: black;
+}
